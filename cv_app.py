@@ -5,7 +5,7 @@ from pdf import process_pdf
 from analysis import analyse_profile
 
 # App Header
-st.header("📄 Scan My :blue[CV.ai]", divider="green")
+st.header("📄 blue[Skill-Match-Engine.ai]", divider="green")
 st.subheader("💡 Tips for Using the Application")
 
 notes = '''
