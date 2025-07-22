@@ -2,6 +2,8 @@
 
 🚀 An AI-powered Resume Screening Web App built using *Streamlit* and *Google Gemini (Generative AI)*. It compares a candidate's resume with a job description and provides insightful metrics such as ATS score, selection probability, missing keywords, SWOT analysis, and project suggestions.
 
+<img width="953" height="493" alt="image" src="https://github.com/user-attachments/assets/fd063d96-f58c-482d-af60-b5db0710efed" />
+
 ---
 
 ## 🎯 Project Goal
