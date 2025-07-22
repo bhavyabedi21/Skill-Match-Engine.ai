@@ -36,14 +36,7 @@ The app provides the following insights:
 
 ## 🏗️ Architecture
 
-Skill-Engine-Match.ai/
-- │
-- ├── cv_app.py # Frontend with Streamlit UI
-- ├── analysis.py # Generates insights using Gemini LLM
-- ├── pdf.py # Extracts text from uploaded PDF resumes
-- ├── requirements.txt # Required dependencies
-- └── .env # Environment variables (API key)
-
+<pre> ``` Skill-Engine-Match.ai/ │ ├── cv_app.py # Frontend with Streamlit UI ├── analysis.py # Generates insights using Gemini LLM ├── pdf.py # Extracts text from uploaded PDF resumes ├── requirements.txt # Required dependencies └── .env # Environment variables (API key) ``` </pre>
 
 - cv_app.py: Main entry point – handles UI, collects resume & JD, and displays LLM outputs.
 - pdf.py: Extracts clean text from uploaded PDF resumes using PyPDF.
