@@ -38,7 +38,6 @@ The app provides the following insights:
 
 ```
 Skill-Engine-Match.ai/
-
 │
 ├── cv_app.py           # Frontend with Streamlit UI
 ├── analysis.py         # Generates insights using Gemini LLM
